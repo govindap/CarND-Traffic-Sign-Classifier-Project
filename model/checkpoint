@@ -1,0 +1,2 @@
+model_checkpoint_path: "ndclassfier300512"
+all_model_checkpoint_paths: "ndclassfier300512"
